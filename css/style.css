@@ -66,3 +66,14 @@ input {
   background-color: #d6d3d3;
   margin-top: 3px;
 }
+
+.wrap {
+  display: flex;
+  align-items: center;
+}
+
+.name {
+  padding-top: 2rem;
+  /* padding-left: 2rem; */
+  color: #807a7a;
+}
