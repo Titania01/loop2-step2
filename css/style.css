@@ -20,4 +20,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding: 3rem 3rem 2rem 4rem;
+}
+
+.white {
+  height: 27rem;
+  width: 32rem;
+  background: #fff;
+  margin: 3rem 0 0 4rem;
 }
