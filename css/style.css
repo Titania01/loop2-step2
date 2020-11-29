@@ -42,3 +42,8 @@ body {
 .image {
   position: relative;
 }
+
+.user {
+  padding-top: 3rem;
+  padding-left: 2rem;
+}
