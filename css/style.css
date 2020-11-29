@@ -29,3 +29,16 @@ body {
   background: #fff;
   margin: 3rem 0 0 4rem;
 }
+
+.avater {
+  height: 4rem;
+  width: 4rem;
+  border-radius: 50%;
+  position: absolute;
+  left: 2rem;
+  top: -2rem;
+}
+
+.image {
+  position: relative;
+}
