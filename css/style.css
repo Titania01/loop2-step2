@@ -74,6 +74,12 @@ input {
 
 .name {
   padding-top: 2rem;
-  /* padding-left: 2rem; */
   color: #807a7a;
+}
+
+.linee {
+  height: 1px;
+  width: 28rem;
+  background-color: #d6d3d3;
+  margin-top: 4rem;
 }
