@@ -46,4 +46,23 @@ body {
 .user {
   padding-top: 3rem;
   padding-left: 2rem;
+  color: #807a7a;
+}
+
+p {
+  font-size: 12px;
+  font-weight: 600;
+  padding-bottom: 8px;
+}
+
+input {
+  outline: none;
+  border: none;
+}
+
+.line {
+  height: 1px;
+  width: 28rem;
+  background-color: #d6d3d3;
+  margin-top: 3px;
 }
