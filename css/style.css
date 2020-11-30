@@ -83,3 +83,19 @@ input {
   background-color: #d6d3d3;
   margin-top: 4rem;
 }
+
+.save {
+  display: flex;
+  margin-left: 20rem;
+  align-items: center;
+  justify-content: space-around;
+  margin-right: 1rem;
+  color: #484848;
+  font-weight: 600;
+  margin-top: 2rem;
+}
+
+.one,
+.two {
+  font-size: 20px;
+}
